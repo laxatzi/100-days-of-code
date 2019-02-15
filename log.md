@@ -33,5 +33,7 @@
 
 **Today's Progress**: I'm following along the bootstrap 4 course by Brad Traversy on Udemy. Completed the first of the five projects.
 
-**Thoughts** I have already built a couple of projects of my own using bootstrap 4. I have also read through documentation for quite a bit. The reason I follow this course is I want to see a seasoned developer in action using the core BS4 features..
+**Thoughts** I have already built a couple of projects of my own using bootstrap 4. I have also read through documentation for quite a bit. The reason I follow this course is I want to see a seasoned developer in action using the core BS4 features.
+**Link(s) to work**: [LoopLab Social Theme](https://github.com/laxatzi/onePageAppSite.git.md)
+
 
