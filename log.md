@@ -29,5 +29,9 @@
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
 
+### Day 1: February 15, Friday
 
+**Today's Progress**: I'm following along the bootstrap 4 course by Brad Traversy on Udemy. Completed the first of the five projects.
+
+**Thoughts** I have already built a couple of projects of my own using bootstrap 4. I have also read through documentation for quite a bit. The reason I follow this course is I want to see a seasoned developer in action using the core BS4 features..
 
