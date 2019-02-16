@@ -38,3 +38,12 @@
 **Link(s) to work**: [LoopLab Social Theme](https://github.com/laxatzi/onePageAppSite/blob/master/index.html)
 
 
+### Day 2: February 16, Friday
+
+**Today's Progress**: I'm following along a second BS4 project tutorial. Building a landing page.
+
+**Thoughts** I started a new Traversy's project called 'mizuxe'. It's a landing page about a book release. I deviate from the tutorial by refraining from using Sass. Sass is something i want to deal with later on. For now i stick to pure CSS.
+
+**Link(s) to work**: [Mizuxe Landing Page Theme](https://github.com/laxatzi/mizuxeClone/blob/master/index.html)
+
+
