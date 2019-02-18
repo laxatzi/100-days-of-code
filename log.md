@@ -46,6 +46,7 @@
 
 **Link(s) to work**: [Mizuxe Landing Page Theme](https://github.com/laxatzi/mizuxeClone/blob/master/index.html)
 
+
 ### Day 3: February 17, Saturday
 
 **Today's Progress**:Continuing with the project. Added header with hero image/text and  responsiveness to navigation bar.
@@ -53,3 +54,11 @@
 **Thoughts** I add a header section with hero text/image. Here we show our main message. I like to use height with vh unit instead of px. Made use of the inherit value to decrease repetition.
 
 **Link(s) to work**: [Mizuxe Landing Page Theme](https://github.com/laxatzi/mizuxeClone/blob/master/index.html)
+
+
+### Day 4: February 18, Monday
+
+**Today's Progress**:Continuing with the project. Added the Newsletter section.
+
+**Thoughts** Nothing special here. Quite easy task. I'd like to progress more, but unable due to lack of time.
+**Link(s) to work**:  [Mizuxe Landing Page Theme](https://github.com/laxatzi/mizuxeClone/blob/master/index.html)
