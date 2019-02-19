@@ -63,3 +63,12 @@
 **Thoughts** Nothing special here. Quite easy task. I'd like to progress more, but unable due to lack of time.
 
 **Link(s) to work**:  [Mizuxe Landing Page Theme](https://github.com/laxatzi/mizuxeClone/blob/master/index.html)
+
+
+### Day 5: February 19, Tusday
+
+**Today's Progress**: Added 'About' section with accordion and  'Authors' section with four equal boxes.
+
+**Thoughts** Straggled a little bit with achieving equal heights in boxes. I achieved it by using the 'align-items-stretch' flex property.
+
+**Link(s) to work**: [Mizuxe Landing Page Theme](https://github.com/laxatzi/mizuxeClone/blob/master/index.html)
