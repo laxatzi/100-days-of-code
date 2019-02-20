@@ -72,3 +72,10 @@
 **Thoughts** Straggled a little bit with achieving equal heights in boxes. I achieved it by using the 'align-items-stretch' flex property.
 
 **Link(s) to work**: [Mizuxe Landing Page Theme](https://github.com/laxatzi/mizuxeClone/blob/master/index.html)
+
+
+### Day  6 : February 21, Wednesday
+
+**Today's Progress**: Added Contact Form and Footer. Concluded the project by adding a smooth scroll jQuery plugin.
+**Thoughts**: I tried to customize the color of active links with no success. I'll try again tomorrow. 
+**Link(s) to work**: [Mizuxe Landing Page Theme](https://github.com/laxatzi/mizuxeClone/blob/master/index.html)
