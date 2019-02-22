@@ -16,20 +16,18 @@
 
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: [Calculator App](http://www.example.com)-->
 
 
-### Day 1: June 27, Monday
+### Day 1: February 14, Thursday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Started to play around with git version control.
 
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
 
-### Day 1: February 15, Friday
+
+### Day 2: February 15, Friday
 
 **Today's Progress**: I'm following along the bootstrap 4 course by Brad Traversy on Udemy. Completed the first of the five projects.
 
@@ -38,7 +36,7 @@
 **Link(s) to work**: [LoopLab Social Theme](https://github.com/laxatzi/onePageAppSite/blob/master/index.html)
 
 
-### Day 2: February 16, Friday
+### Day 3: February 16, Friday
 
 **Today's Progress**: I'm following along a second BS4 project tutorial. Building a landing page.
 
@@ -47,7 +45,7 @@
 **Link(s) to work**: [Mizuxe Landing Page Theme](https://github.com/laxatzi/mizuxeClone/blob/master/index.html)
 
 
-### Day 3: February 17, Saturday
+### Day 4: February 17, Saturday
 
 **Today's Progress**:Continuing with the project. Added header with hero image/text and  responsiveness to navigation bar.
 
@@ -56,7 +54,7 @@
 **Link(s) to work**: [Mizuxe Landing Page Theme](https://github.com/laxatzi/mizuxeClone/blob/master/index.html)
 
 
-### Day 4: February 18, Monday
+### Day 5: February 18, Monday
 
 **Today's Progress**:Continuing with the project. Added the Newsletter section.
 
@@ -65,7 +63,7 @@
 **Link(s) to work**:  [Mizuxe Landing Page Theme](https://github.com/laxatzi/mizuxeClone/blob/master/index.html)
 
 
-### Day 5: February 19, Tusday
+### Day 6: February 19, Tusday
 
 **Today's Progress**: Added 'About' section with accordion and  'Authors' section with four equal boxes.
 
@@ -74,7 +72,7 @@
 **Link(s) to work**: [Mizuxe Landing Page Theme](https://github.com/laxatzi/mizuxeClone/blob/master/index.html)
 
 
-### Day  6 : February 21, Thurday
+### Day  7 : February 21, Thurday
 
 **Today's Progress**: Added Contact Form and Footer. Concluded the project by adding a smooth scroll jQuery plugin.
 
@@ -83,7 +81,7 @@
 **Link(s) to work**: [Mizuxe Landing Page Theme](https://github.com/laxatzi/mizuxeClone/blob/master/index.html)
 
 
-### Day  7 : February 22, Friday
+### Day  8 : February 22, Friday
 
 **Today's Progress**: Added video section and photo gallery section
 
