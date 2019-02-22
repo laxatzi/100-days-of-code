@@ -74,7 +74,7 @@
 **Link(s) to work**: [Mizuxe Landing Page Theme](https://github.com/laxatzi/mizuxeClone/blob/master/index.html)
 
 
-### Day  6 : February 21, Wednesday
+### Day  6 : February 21, Thurday
 
 **Today's Progress**: Added Contact Form and Footer. Concluded the project by adding a smooth scroll jQuery plugin.
 
