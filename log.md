@@ -81,3 +81,12 @@
 **Thoughts**: I tried to customize the color of active links with no success. I'll try again tomorrow. 
 
 **Link(s) to work**: [Mizuxe Landing Page Theme](https://github.com/laxatzi/mizuxeClone/blob/master/index.html)
+
+
+### Day  7 : February 22, Friday
+
+**Today's Progress**: Added video section and photo gallery section
+
+**Thoughts**:  Utilized the “lightbox” modal plugin  for photo gallery. 
+
+**Link(s) to work**: [Mizuxe Landing Page Theme](https://github.com/laxatzi/mizuxeClone/blob/master/index.html)
