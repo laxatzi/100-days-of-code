@@ -98,3 +98,10 @@
 **Link(s) to work**: [Glozzom Theme](https://github.com/laxatzi/glozzomClone/blob/master/about.html)
 
 
+### Day 10: February 24, Sunday
+
+**Today's Progress**: -Finnished about page. Created equal height boxes with card and css class 'h-100'
+
+**Thoughts**: Really think that boxes in a features section should be equal in height no matter the amount of text content. Lesson make use of jQuery plugins, the ease of use of which I like but I try to build an equelevant function with vanilla
+
+**Link(s) to work**: [Glozzom Theme](https://github.com/laxatzi/glozzomClone/blob/master/about.html)
