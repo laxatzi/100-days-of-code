@@ -83,8 +83,18 @@
 
 ### Day  8 : February 22, Friday
 
-**Today's Progress**: Added video section and photo gallery section
+**Today's Progress**: Started Glozzom project. Added video section and photo gallery section
 
 **Thoughts**:  Utilized the “lightbox” modal plugin  for photo gallery. 
 
-**Link(s) to work**: [Mizuxe Landing Page Theme](https://github.com/laxatzi/mizuxeClone/blob/master/index.html)
+**Link(s) to work**: [Glozzom Theme](https://github.com/laxatzi/glozzomClone/blob/master/index.html)
+
+
+### Day  9 : February 23, Saturday
+
+**Today's Progress**: -Finnish index page. Start about page. 
+                      -Made use of the silk carousel plugin.
+
+**Link(s) to work**: [Glozzom Theme](https://github.com/laxatzi/glozzomClone/blob/master/about.html)
+
+
