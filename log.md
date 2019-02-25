@@ -112,6 +112,7 @@
 **Today's Progress**: -Finished Services page. Used a lot the card component for accordions and boxes alike.
 
 **Thoughts**: I 'm trying to focus in the 20% of components that are used the 80% of the time while building a website with the bootstrap 4 library.
-Started reading about http protocol following along the Odin project.
+
+-Started reading about http protocol following along the Odin project.
 
 **Link(s) to work**: [Glozzom Theme](https://github.com/laxatzi/glozzomClone/blob/master/services.html)
