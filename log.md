@@ -105,3 +105,13 @@
 **Thoughts**: Really think that boxes in a features section should be equal in height no matter the amount of text content. Lesson make use of jQuery plugins, the ease of use of which I like but I try to build an equelevant function with vanilla
 
 **Link(s) to work**: [Glozzom Theme](https://github.com/laxatzi/glozzomClone/blob/master/about.html)
+
+
+### Day 11: Monday 25 Monday
+
+**Today's Progress**: -Finished Services page. Used a lot the card component for accordions and boxes alike.
+
+**Thoughts**: I 'm trying to focus in the 20% of components that are used the 80% of the time while building a website with the bootstrap 4 library.
+Started reading about http protocol following along the Odin project.
+
+**Link(s) to work**: [Glozzom Theme](https://github.com/laxatzi/glozzomClone/blob/master/services.html)
