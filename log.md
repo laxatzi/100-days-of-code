@@ -116,3 +116,12 @@
 -Started reading about http protocol following along the Odin project.
 
 **Link(s) to work**: [Glozzom Theme](https://github.com/laxatzi/glozzomClone/blob/master/services.html)
+
+
+### Day 12:  Tuesday 26 
+
+**Today's Progress**: -Finished Blog and Contact pages. Concluded the glozzom theme project.
+
+**Thoughts**: Skim through Bootstrap 4 documentation for code samples and components similar to what I 've used so far in the course.
+
+**Link(s) to work**: [Glozzom Theme](https://github.com/laxatzi/glozzomClone/blob/master/blog.html)
