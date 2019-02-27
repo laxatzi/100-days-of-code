@@ -125,3 +125,12 @@
 **Thoughts**: Skim through Bootstrap 4 documentation for code samples and components similar to what I 've used so far in the course.
 
 **Link(s) to work**: [Glozzom Theme](https://github.com/laxatzi/glozzomClone/blob/master/blog.html)
+
+
+### Day 13:  Wednesday 27 
+
+**Today's Progress**: Read BS4 documentation. Played with sample code and build some components.
+                      Read the Introduction to HTTP free book by Launch School.
+
+**Thoughts**: Skim through Bootstrap 4 documentation for code samples and components similar to what I 've used so far in the course.
+
