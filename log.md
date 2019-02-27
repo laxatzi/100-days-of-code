@@ -132,5 +132,5 @@
 **Today's Progress**: Read BS4 documentation. Played with sample code and build some components.
                       Read the Introduction to HTTP free book by Launch School.
 
-**Thoughts**: Skim through Bootstrap 4 documentation for code samples and components similar to what I 've used so far in the course.
+**Thoughts**: Reading documentation is different than following a tutorial in the sense that the information is overwhelmingly big and detailed (which is a good thing). You delve deeper into the language but at the same time you are at risk of being lost in a maze of utilities and components that are not needed in an average project.
 
