@@ -134,3 +134,9 @@
 
 **Thoughts**: Reading documentation is different than following a tutorial in the sense that the information is overwhelmingly big and detailed (which is a good thing). You delve deeper into the language but at the same time you are at risk of being lost in a maze of utilities and components that are not needed in an average project.
 
+
+### Day 14:  Thursday 28
+
+**Today's Progress**: -Keep reading BS4 documentation . Built some Navbars and Forms.
+Keep reading the Introduction to HTTP   by Launch School @launchschool
+
