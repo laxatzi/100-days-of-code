@@ -140,3 +140,13 @@
 **Today's Progress**: -Keep reading BS4 documentation . Built some Navbars and Forms.
 Keep reading the Introduction to HTTP   by Launch School @launchschool
 
+
+### Day 15:  Friday 01
+
+**Today's Progress**:
+-Delved into BS4 documantation. Played with Carousels and other plugins
+-Customize the look of my Visual  Studio Code color theme. Created some snippets.-Spent a couple of hours playing with VSCode and reading the documentation.
+
+**Today's Progress**:
+-It's amazing how snippets can speed up work and make coding seem  like a breeze.
+
