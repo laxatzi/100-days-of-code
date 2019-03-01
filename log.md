@@ -107,7 +107,7 @@
 **Link(s) to work**: [Glozzom Theme](https://github.com/laxatzi/glozzomClone/blob/master/about.html)
 
 
-### Day 11: Monday 25 Monday
+### Day 11: February 25, Monday
 
 **Today's Progress**: -Finished Services page. Used a lot the card component for accordions and boxes alike.
 
@@ -118,7 +118,7 @@
 **Link(s) to work**: [Glozzom Theme](https://github.com/laxatzi/glozzomClone/blob/master/services.html)
 
 
-### Day 12:  Tuesday 26 
+### Day 12: February 26, Tuesday
 
 **Today's Progress**: -Finished Blog and Contact pages. Concluded the glozzom theme project.
 
@@ -127,7 +127,7 @@
 **Link(s) to work**: [Glozzom Theme](https://github.com/laxatzi/glozzomClone/blob/master/blog.html)
 
 
-### Day 13:  Wednesday 27 
+### Day 13: February 27, Wednesday
 
 **Today's Progress**: Read BS4 documentation. Played with sample code and build some components.
                       Read the Introduction to HTTP free book by Launch School.
@@ -135,13 +135,13 @@
 **Thoughts**: Reading documentation is different than following a tutorial in the sense that the information is overwhelmingly big and detailed (which is a good thing). You delve deeper into the language but at the same time you are at risk of being lost in a maze of utilities and components that are not needed in an average project.
 
 
-### Day 14:  Thursday 28
+### Day 14: February 28, Thursday
 
 **Today's Progress**: -Keep reading BS4 documentation . Built some Navbars and Forms.
 Keep reading the Introduction to HTTP   by Launch School @launchschool
 
 
-### Day 15:  Friday 01
+### Day 15: March 01, Friday 
 
 **Today's Progress**:
 -Delved into BS4 documantation. Played with Carousels and other plugins
