@@ -155,5 +155,6 @@ Keep reading the Introduction to HTTP   by Launch School @launchschool
 
 **Today's Progress**:
 Spent more time reading the VSCode  documentation. Customized a new color theme. Added a few more snippets. Read the Bootstrap 4 documentation third day. 
+
 **Today's Progress**:
 I read about the majority of components and utilities without trying to replicate the examples. I just want to get a feel of what is possible with BS4
