@@ -147,7 +147,7 @@ Keep reading the Introduction to HTTP   by Launch School @launchschool
 -Delved into BS4 documantation. Played with Carousels and other plugins
 -Customize the look of my Visual  Studio Code color theme. Created some snippets.-Spent a couple of hours playing with VSCode and reading the documentation.
 
-**Today's Progress**:
+**Thoughts**:
 -It's amazing how snippets can speed up work and make coding seem  like a breeze.
 
 
@@ -156,5 +156,14 @@ Keep reading the Introduction to HTTP   by Launch School @launchschool
 **Today's Progress**:
 Spent more time reading the VSCode  documentation. Customized a new color theme. Added a few more snippets. Read the Bootstrap 4 documentation third day. 
 
-**Today's Progress**:
+**Thoughts**:
 I read about the majority of components and utilities without trying to replicate the examples. I just want to get a feel of what is possible with BS4
+
+
+### Day 17:  Sunday 03
+
+**Today's Progress**:
+Family obligations today and I hardly managed to code for an hour or so. Read BS4 documentation, mostly about  modals, and popovers.
+
+**Thoughts**:
+Taking a break from coding and being more social (physically) and relaxed is a good thing. since recharging batteries, is a gift that we all need to make to ourselves from time to time.
