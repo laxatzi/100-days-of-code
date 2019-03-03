@@ -151,7 +151,7 @@ Keep reading the Introduction to HTTP   by Launch School @launchschool
 -It's amazing how snippets can speed up work and make coding seem  like a breeze.
 
 
-### Day 16:  Saturday 02
+### Day 16: March 02, Saturday
 
 **Today's Progress**:
 Spent more time reading the VSCode  documentation. Customized a new color theme. Added a few more snippets. Read the Bootstrap 4 documentation third day. 
@@ -160,7 +160,7 @@ Spent more time reading the VSCode  documentation. Customized a new color theme.
 I read about the majority of components and utilities without trying to replicate the examples. I just want to get a feel of what is possible with BS4
 
 
-### Day 17:  Sunday 03
+### Day 17: March 03, Sunday
 
 **Today's Progress**:
 Family obligations today and I hardly managed to code for an hour or so. Read BS4 documentation, mostly about  modals, and popovers.
