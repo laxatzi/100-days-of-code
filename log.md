@@ -176,3 +176,11 @@ Delved into Bootstrap4 documentation for one more day. Experimented with jquery 
 
 **Thoughts**:
 I think bootstrap4 is great for quick and easy prototyping in the browser. Learning to use a  graphic design software like Photoshop or Gimp is not my cup of tea. 
+
+
+### Day 19:  March 05 Tuesday
+
+**Today's Progress**:
+Started the building of a one page portfolio site.
+**Thoughts**:
+Built a quick prototype with BS4. 
