@@ -167,3 +167,12 @@ Family obligations today and I hardly managed to code for an hour or so. Read BS
 
 **Thoughts**:
 Taking a break from coding and being more social (physically) and relaxed is a good thing. since recharging batteries, is a gift that we all need to make to ourselves from time to time.
+
+
+### Day 18:  March 04, Monday
+
+**Today's Progress**:
+Delved into Bootstrap4 documentation for one more day. Experimented with jquery plugins (modals, popovers and toasts). Created some spinners also.
+
+**Thoughts**:
+I think bootstrap4 is great for quick and easy prototyping in the browser. Learning to use a  graphic design software like Photoshop or Gimp is not my cup of tea. 
