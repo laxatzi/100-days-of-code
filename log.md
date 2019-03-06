@@ -178,7 +178,7 @@ Delved into Bootstrap4 documentation for one more day. Experimented with jquery 
 I think bootstrap4 is great for quick and easy prototyping in the browser. Learning to use a  graphic design software like Photoshop or Gimp is not my cup of tea. 
 
 
-### Day 19:  March 05 Tuesday
+### Day 19:  March 05, Tuesday
 
 **Today's Progress**:
 Started the building of a one page portfolio site.
@@ -186,7 +186,7 @@ Started the building of a one page portfolio site.
 Built a quick prototype with BS4. 
 
 
-### Day 20:  March 06 Wednesday
+### Day 20:  March 06, Wednesday
 
 **Today's Progress**:
 Continuing  with the BS4 portfolio site. Built header with an accordion playing the role of navigation. One more day skimming through the documentation.
