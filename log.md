@@ -184,3 +184,11 @@ I think bootstrap4 is great for quick and easy prototyping in the browser. Learn
 Started the building of a one page portfolio site.
 **Thoughts**:
 Built a quick prototype with BS4. 
+
+
+### Day 20:  March 06 Wednesday
+
+**Today's Progress**:
+Continuing  with the BS4 portfolio site. Built header with an accordion playing the role of navigation. One more day skimming through the documentation.
+
+**Thoughts**: Hectic day. Wasn't able to code for more than an hour or so.
