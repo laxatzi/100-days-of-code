@@ -192,3 +192,19 @@ Built a quick prototype with BS4.
 Continuing  with the BS4 portfolio site. Built header with an accordion playing the role of navigation. One more day skimming through the documentation.
 
 **Thoughts**: Hectic day. Wasn't able to code for more than an hour or so.
+
+
+### Day 21:  March 07 Thursday
+
+**Today's Progress**:
+Finished the homepage of the BS4 portfolio site. Read through BEM documentation. Tried to applie  the BEM principles in older project (which are a mess btw).
+
+**Thoughts**: Today I came to the revalation that learning to code is one thing, and learning to code properly is another. 
+
+
+### Day 22:  March 08 Friday
+
+**Today's Progress**:
+Finished the Resume page of the BS4 portfolio site. Read the book Introduction to HTTP by Launch School. 
+
+**Thoughts**: After many days of  work my workflow has been improved dramatically. I use git we ease  and building a website with BS4 seems like a breeze.
