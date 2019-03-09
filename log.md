@@ -208,3 +208,9 @@ Finished the homepage of the BS4 portfolio site. Read through BEM documentation.
 Finished the Resume page of the BS4 portfolio site. Read the book Introduction to HTTP by Launch School. 
 
 **Thoughts**: After many days of  work my workflow has been improved dramatically. I use git we ease  and building a website with BS4 seems like a breeze.
+
+
+### Day 23:  March 09 Saturday
+
+**Today's Progress**:
+Finished the Contact page of  the BS4 portfolio site.  Reviewed my code. Tried to implement BEM methodology.
