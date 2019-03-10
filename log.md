@@ -214,3 +214,9 @@ Finished the Resume page of the BS4 portfolio site. Read the book Introduction t
 
 **Today's Progress**:
 Finished the Contact page of  the BS4 portfolio site.  Reviewed my code. Tried to implement BEM methodology.
+
+
+### Day 24:  March 10 Sunday
+
+**Today's Progress**:
+Started working a new BS4 project bulding a dashboard-backend page. Following along  Brad Traversy tutorial 'Blogen Admin UI'. Read through BEM documentation for one more day.
