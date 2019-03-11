@@ -220,3 +220,9 @@ Finished the Contact page of  the BS4 portfolio site.  Reviewed my code. Tried t
 
 **Today's Progress**:
 Started working a new BS4 project bulding a dashboard-backend page. Following along  Brad Traversy tutorial 'Blogen Admin UI'. Read through BEM documentation for one more day.
+
+
+###  Day 25: March 11 Monday
+
+**Today's Progress**:
+Continuing working the BS4 project building a dashboard-backend page. Added 'navigation', 'header',  and 'action' sections.
