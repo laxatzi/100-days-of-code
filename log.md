@@ -227,7 +227,14 @@ Started working a new BS4 project bulding a dashboard-backend page. Following al
 **Today's Progress**:
 Continuing working the BS4 project building a dashboard-backend page. Added 'navigation', 'header',  and 'action' sections.
 
+
 ###  Day 26: March 12 Tuesday 
 
 **Today's Progress**:
 Completed the dashboard. Added modals, tables and cards. Use Chrome Dev Tools to inspect and test CSS. 
+
+
+###  Day 27: March 13 Wednesday 
+
+**Today's Progress**:
+Created two more pages of the BS4 dashboard project. Read  thoroughly the article 'A successful Git branching model' by Vincent Driessen, to optimize my git workflow.
