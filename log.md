@@ -238,3 +238,10 @@ Completed the dashboard. Added modals, tables and cards. Use Chrome Dev Tools to
 
 **Today's Progress**:
 Created two more pages of the BS4 dashboard project. Read  thoroughly the article 'A successful Git branching model' by Vincent Driessen, to optimize my git workflow.
+
+
+###  Day 28: March 14 Thursday 
+
+**Today's Progress**:
+Created 'Profile' and 'Settings' pages for the BS4 dashboard project.
+Started teaching myself CSS Flexbox with the Flexbox Froggy game.
