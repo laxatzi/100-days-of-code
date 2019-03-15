@@ -245,3 +245,10 @@ Created two more pages of the BS4 dashboard project. Read  thoroughly the articl
 **Today's Progress**:
 Created 'Profile' and 'Settings' pages for the BS4 dashboard project.
 Started teaching myself CSS Flexbox with the Flexbox Froggy game.
+
+
+###  Day 29: March 15 Friday 
+
+**Today's Progress**:
+
+Added  admin, categories and user pages.  Tested for responsiveness and bugs. Finished the BS4 dashboard Blogen project based on a bradtraversy tutorial.
