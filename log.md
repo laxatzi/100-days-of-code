@@ -252,3 +252,10 @@ Started teaching myself CSS Flexbox with the Flexbox Froggy game.
 **Today's Progress**:
 
 Added  admin, categories and user pages.  Tested for responsiveness and bugs. Finished the BS4 dashboard Blogen project based on a bradtraversy tutorial.
+
+
+###  Day 30: March 16 Saturday
+
+**Today's Progress**:
+
+Completed flexboxfrogy.com game along with the greengarden.com game. A funny way to learn the fundamentals of Flexbox and CSS Grid. Following along the Wes Bos flexbox.io tutorial. Learn a couple of interesting articles in medium about managing time and work life balance.
