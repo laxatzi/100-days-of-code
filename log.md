@@ -259,3 +259,8 @@ Added  admin, categories and user pages.  Tested for responsiveness and bugs. Fi
 **Today's Progress**:
 
 Completed flexboxfrogy.com game along with the greengarden.com game. A funny way to learn the fundamentals of Flexbox and CSS Grid. Following along the Wes Bos flexbox.io tutorial. Learn a couple of interesting articles in medium about managing time and work life balance.
+
+### Day 31: March 17 Sunday
+
+**Today's Progress**:
+Following along the flexbox.io tutorial. Learned about wrapping, ordering and centering elements.
