@@ -264,3 +264,10 @@ Completed flexboxfrogy.com game along with the greengarden.com game. A funny way
 
 **Today's Progress**:
 Following along the flexbox.io tutorial. Learned about wrapping, ordering and centering elements.
+
+
+###  Day 32: March 16 Saturday
+
+**Today's Progress**:
+
+Working on flexbox exercises. Understanding flex property and how flex-basis with flex-wrpap work together.Read a Chris Coyier's article about inheriting box-sizing.
