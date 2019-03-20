@@ -26,7 +26,6 @@
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
 
-
 ### Day 2: February 15, Friday
 
 **Today's Progress**: I'm following along the bootstrap 4 course by Brad Traversy on Udemy. Completed the first of the five projects.
