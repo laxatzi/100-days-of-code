@@ -278,3 +278,10 @@ Working on flexbox exercises. Understanding flex property and how flex-basis wit
 **Today's Progress**:
 
 Built a responsive webpage with flexbox. Reordered content to be mobile friendly.
+
+
+### Day 34: March 20 Wednesday
+
+**Today's Progress**:
+
+Troubleshoot responsiveness issues on a flexbox webpage. Built a contact form with flexbox.
