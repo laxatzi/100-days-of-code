@@ -284,3 +284,9 @@ Built a responsive webpage with flexbox. Reordered content to be mobile friendly
 **Today's Progress**:
 
 Troubleshoot responsiveness issues on a flexbox webpage. Built a contact form with flexbox.
+
+### Day 35: March 21 Thursday
+
+**Today's Progress**:
+
+Built a flexbox pricing grid. Used Flexbox Nesting for centering divs. Read a some interesting articles in Dev.to
