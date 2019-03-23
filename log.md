@@ -292,8 +292,15 @@ Troubleshoot responsiveness issues on a flexbox webpage. Built a contact form wi
 Built a flexbox pricing grid. Used Flexbox Nesting for centering divs. Read a some interesting articles in Dev.to
 
 
-### Day 36: March 21 Friday
+### Day 36: March 22 Friday
 
 **Today's Progress**:
 
 Created another flexbox pricing grid. Achieved equal height columns with flexbox. Read about css variables in MDN docs.
+
+
+### Day 37: March 23 Saturday
+
+**Today's Progress**:
+
+Not in the mood for a lot of coding today. Some edits to css files of previous projects. Read MDN documentation about CSS variables for another day.
