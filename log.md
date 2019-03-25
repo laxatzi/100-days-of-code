@@ -304,3 +304,7 @@ Created another flexbox pricing grid. Achieved equal height columns with flexbox
 **Today's Progress**:
 
 Not in the mood for a lot of coding today. Some edits to css files of previous projects. Read MDN documentation about CSS variables for another day.
+
+### Day 38  March 24 Sunday
+
+Read about the overflow property and CSS Counters on MDN. Created a mobile app layout with flebox.  ###March 25  is National Day where I live (Greece) and was spent on festivals, family gatherings and history articles reading. I'll make up for lost time tomorrow.
