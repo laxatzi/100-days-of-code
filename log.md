@@ -320,3 +320,11 @@ Built a responsive website with flexbox, similar to the one I built the previous
 
 **Thoughts**:
 Rebuilding the same or a similar website seems repetitive and boring but repetition helps the learning process. 
+
+
+### Day 40 March 27 Tuesday
+
+**Today's Progress**:
+
+Following along with the builting of the responsive website with flexbox, similar to the one I built the previous days following along the flexbox.io project. 
+
