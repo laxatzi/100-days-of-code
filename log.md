@@ -307,4 +307,16 @@ Not in the mood for a lot of coding today. Some edits to css files of previous p
 
 ### Day 38  March 24 Sunday
 
+**Today's Progress**:
+
 Read about the overflow property and CSS Counters on MDN. Created a mobile app layout with flebox.  ###March 25  is National Day where I live (Greece) and was spent on festivals, family gatherings and history articles reading. I'll make up for lost time tomorrow.
+
+
+### Day 39 March 26 Tuesday
+
+**Today's Progress**:
+
+Built a responsive website with flexbox, similar to the one I built the previous days following along the flexbox.io project. 
+
+**Thoughts**:
+Rebuilding the same or a similar website seems repetitive and boring but repetition helps the learning process. 
