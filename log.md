@@ -322,9 +322,22 @@ Built a responsive website with flexbox, similar to the one I built the previous
 Rebuilding the same or a similar website seems repetitive and boring but repetition helps the learning process. 
 
 
-### Day 40 March 27 Tuesday
+### Day 40 March 27 Wednesday
 
 **Today's Progress**:
 
 Following along with the builting of the responsive website with flexbox, similar to the one I built the previous days following along the flexbox.io project. 
 
+
+### Day 41 March 28 Thursday
+
+**Today's Progress**:
+
+Finished  building a responsive website using flexbox extensively. Read MDN documentation thoroughly before moving on to the next project.
+
+
+### Day 42 March 29 Friday
+
+**Today's Progress**:
+
+Finished  building a responsive website using flexbox extensively. Read MDN documentation thoroughly before moving on to the next project. 
