@@ -341,3 +341,10 @@ Finished  building a responsive website using flexbox extensively. Read MDN docu
 **Today's Progress**:
 
 Finished  building a responsive website using flexbox extensively. Read MDN documentation thoroughly before moving on to the next project. 
+
+
+### Day 42 March 30 Saturday
+
+**Today's Progress**:
+
+Read about CSS-Grid layout in MDN web docs. Started following along Wes Bos tutorial about CSS-Grid. Built a responsive webpage with CSS-Grid.
