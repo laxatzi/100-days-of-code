@@ -348,3 +348,17 @@ Finished  building a responsive website using flexbox extensively. Read MDN docu
 **Today's Progress**:
 
 Read about CSS-Grid layout in MDN web docs. Started following along Wes Bos tutorial about CSS-Grid. Built a responsive webpage with CSS-Grid.
+
+
+### Day 44 March 31 Sunday
+
+**Today's Progress**:
+
+Not much coding this Sunday. Continued with the Wes Bos CSS Grid tutorial #GRIDDYUP for half an hour. I read Antonio Cangiano's book 'Technical Blogging' in one go. 
+
+
+### Day 44 March 01 Monday
+
+**Today's Progress**:
+
+Following along with the CSSGrid tutorial. Learned to size tracks and grid items. Introduced the 'repeat' function.
