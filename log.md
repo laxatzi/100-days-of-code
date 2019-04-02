@@ -357,8 +357,12 @@ Read about CSS-Grid layout in MDN web docs. Started following along Wes Bos tuto
 Not much coding this Sunday. Continued with the Wes Bos CSS Grid tutorial #GRIDDYUP for half an hour. I read Antonio Cangiano's book 'Technical Blogging' in one go. 
 
 
-### Day 44 March 01 Monday
+### Day 45 April 01 Monday
 
 **Today's Progress**:
 
 Following along with the CSSGrid tutorial. Learned to size tracks and grid items. Introduced the 'repeat' function.
+
+### Day 46 April 02 Tuesday 
+
+Spent time playing along with grid item positioning in the grid. Solved placing and spanning CSSGrid exercises.
