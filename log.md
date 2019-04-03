@@ -363,6 +363,16 @@ Not much coding this Sunday. Continued with the Wes Bos CSS Grid tutorial #GRIDD
 
 Following along with the CSSGrid tutorial. Learned to size tracks and grid items. Introduced the 'repeat' function.
 
+
 ### Day 46 April 02 Tuesday 
 
+**Today's Progress**:
+
 Spent time playing along with grid item positioning in the grid. Solved placing and spanning CSSGrid exercises.
+
+
+### Day 47 April 03 Wednesday 
+
+**Today's Progress**:
+
+Following along with CSSGrid tutorial introduced auto-fit, auto-fill, and minmax() for responsive grids. Used grid-template-areas property for naming grid items. 
